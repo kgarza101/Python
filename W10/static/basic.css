@@ -11,7 +11,7 @@ body {
   
   /* This is used to make profile picture cropped as a circle */
   img {
-    border-radius: 50%;
+    border-radius: 10%;
   }
   
   /* Formatting for different header levels, if you need them! */
